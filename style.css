@@ -1,0 +1,20 @@
+.jumbotron{
+    margin: 0%;
+}
+body{
+    background-image: url(https://www.channelfutures.com/files/2017/06/Global-Futuristic-Network.jpg);
+}
+.card-body{
+    background-color: rgb(27 61 91);
+    color: white;
+}
+#ABC{
+    color: white;
+    background-color: rgb(8 35 58 / 5%);
+}
+.navbar{
+    color: white;
+}
+.card{
+    border-radius: 10px;
+}
